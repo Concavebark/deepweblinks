@@ -6,10 +6,11 @@ this is meant to be a repository for storing links that people can use to learn
 about how the normal the deep web can be and that it's not all illegal trade and stuff.
 
 
+the Template goes "Site Name" - "Link" (Approximation of chance to be up) [What it is]
 
+The approximations can really be whatever phrase or word sounds most defining of the site's uptime.
 
 # -------------------------------------
-# Deep web links:
 
 # -- Search Engines --
 
@@ -17,7 +18,7 @@ DuckDuckGo - http://3g2upl4pq6kufc4m.onion  (Consistently Live) [Search Engine]
 
 Torch - http://xmh57jrzrnw6insl.onion/  (Consistently Live) [Search Engine]
 
-not Evil//Tor Search - http://hss3uro2hsxfogfq.onion    (Probably Healthy) [Search Engine]
+not Evil//Tor Search - http://hss3uro2hsxfogfq.onion    (Semi-Healthy) [Search Engine]
  
 # -- Hidden Wikis --
 
@@ -25,14 +26,14 @@ Clockwise Library - http://auutwvprh6odm2qt.onion/  (Consistently Live) [Hidden 
 
 Onion Dir - http://dirnxxdraygbifgc.onion/  (Consistently Live) [Hidden Wiki]
 
-TorLinks - http://torlinkbgs6aabns.onion    (Healthy?) [Hidden Wiki]
+TorLinks - http://torlinkbgs6aabns.onion    (Semi-Healthy) [Hidden Wiki]
  
 # -- Other --
 
-Deep Web Radio - http://76qugh5bey5gum71.onion  (idk) [Blog]
+Deep Web Radio - http://76qugh5bey5gum71.onion  (unknown) [Blog]
 
-ShadowLife - http://bwbvcvmbpnan6xsd.onion  (idk) [Blog]
+ShadowLife - http://bwbvcvmbpnan6xsd.onion  (unknown) [Blog]
  
-# -- Email Service? --
+# -- Email Service --
 
-Torbox - http://torbox3uiot6wchz.onion  (unknown) [Email Service?]
+Torbox - http://torbox3uiot6wchz.onion  (unknown) [Email Service]
