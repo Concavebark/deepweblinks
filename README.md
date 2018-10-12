@@ -35,7 +35,7 @@ TorLinks - http://torlinkbgs6aabns.onion    (Semi-Healthy) [Hidden Wiki]
 
 Deep Web Radio - http://76qugh5bey5gum71.onion  (unknown) [Blog]
 
-ShadowLife - http://bwbvcvmbpnan6xsd.onion  (unknown) [Blog]
+ShadowLife - http://shadow7jnzxjkvpz.onion/ (unknown) [Blog]
  
 # -- Email Service --
 
