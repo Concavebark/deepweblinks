@@ -30,6 +30,8 @@ Clockwise Library - http://auutwvprh6odm2qt.onion/  (Consistently Live) [Hidden 
 Onion Dir - http://dirnxxdraygbifgc.onion/  (Consistently Live) [Hidden Wiki]
 
 TorLinks - http://torlinkbgs6aabns.onion    (Semi-Healthy) [Hidden Wiki]
+
+YAHW! (Yet Another Hidden Wiki) - http://6s3qqbqolj3qkj76.onion/doku.php (unknown) [Hidden Wiki]
  
 # -- Other --
 
