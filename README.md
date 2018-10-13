@@ -40,6 +40,10 @@ Deep Web Radio - http://76qugh5bey5gum71.onion  (unknown) [Blog]
 ShadowLife - http://shadow7jnzxjkvpz.onion/ (unknown) [Blog]
 
 TheYOSH.nl - http://ctzzqqimlfamyhrc.onion (unknown) [Blog/Information]
+
+Hidden Answers - http://answerstedhctbek.onion (unknown) [Answers/Blog/Info]
+
+Puzzls - http://blueboxlxc4o7mvk.onion (IDK) [Puzzles] {Not sure about safety, YOU'VE BEEN WARNED}
  
 # -- Email Service --
 
