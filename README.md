@@ -54,7 +54,7 @@ Yet Another Pastebin - http://pastebinkaav4f5x.onion (unknown) [Pastebin]
 
 DeepPaste - http://depastedihrn3jtw.onion (unknown) [Pastebin] // Self-destruct option
 
-Pasta - http:// pastagdsp33j7aow.onion (unknown) [Pastebin] // Editable with password
+Pasta - http://pastagdsp33j7aow.onion (unknown) [Pastebin] // Editable with password
  
 # -- Email Service --
 
