@@ -43,7 +43,7 @@ TheYOSH.nl - http://ctzzqqimlfamyhrc.onion (unknown) [Blog/Information]
 
 Hidden Answers - http://answerstedhctbek.onion (unknown) [Answers/Blog/Info]
 
-Puzzls - http://blueboxlxc4o7mvk.onion (IDK) [Puzzles] {Not sure about safety, YOU'VE BEEN WARNED}
+Puzzles - http://blueboxlxc4o7mvk.onion (IDK) [Puzzles] {Safety not 100% but about 80% sure it's ok, HAVE FUN}
  
 # -- Email Service --
 
