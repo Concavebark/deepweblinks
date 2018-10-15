@@ -1,5 +1,9 @@
-# deepweblinks
-A list of safe deep web links for the public 
+# deepweblinks -master
+
+
+The master GitHub repository for my list of safe deep web links
+
+site: concavebark.github.io/deepweblinks
 
 this is meant to be a repository for storing links that people can use to learn
 
