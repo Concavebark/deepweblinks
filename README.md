@@ -24,7 +24,7 @@ DuckDuckGo - http://3g2upl4pq6kufc4m.onion  (Consistently Live) [Search Engine]
 
 Torch - http://xmh57jrzrnw6insl.onion/  (Consistently Live) [Search Engine]
 
-not Evil//Tor Search - http://hss3uro2hsxfogfq.onion    (Semi-Healthy) [Search Engine]
+not Evil - http://hss3uro2hsxfogfq.onion    (Semi-Healthy) [Search Engine]
 
 Candle - http://gjobqjj7wyczbqie.onion (unknown) [Search Engine]
  
