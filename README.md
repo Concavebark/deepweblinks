@@ -7,7 +7,7 @@ site: concavebark.github.io/deepweblinks
 
 this is meant to be a repository for storing links that people can use to learn
 
-about how the normal the deep web can be and that it's not all illegal trade and stuff.
+about how the normal deep web can be and that it's not all illegal trade and stuff.
 
 
 also note: SEARCH ENGINES ARE NOT 100% SAFE DEEP WEB, some links found from searches produced from the search engines listed will link you to Deep Web sites, Search Engines are listed only for giving the User a choice to search their indexed websites.
