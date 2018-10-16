@@ -6,9 +6,9 @@ this is meant to be a repository for storing links that people can use to learn
 about how the normal the deep web can be and that it's not all illegal trade and stuff.
 
 
-also note: SEARCH ENGINES ARE NOT 100% SAFE DEEP WEB, some links found from searches produced from the search engines listed will link you to Deep Web sites, Search Engines are listed only for giving the User a choice to search their indexed websites.
+**also note: SEARCH ENGINES ARE NOT 100% SAFE DEEP WEB, some links found from searches produced from the search engines listed will link you to Dark Web sites (illegal ones), Search Engines are listed only for giving the User a choice to search their indexed websites.**
 
-YOU HAVE BEEN WARNED (asides from the [DuckDuckGo](http://3g2upl4pq6kufc4m.onion) search engine, it's a surface/clear web search engine with an onion link to ENSURE safety and anonymity)
+**YOU HAVE BEEN WARNED** (asides from the [DuckDuckGo](http://3g2upl4pq6kufc4m.onion) search engine, it's a surface/clear web search engine with an onion link to ENSURE safety and anonymity)
 
 ## Read these [notes](/deepweblinks/notes) for a little bit of starter instruction!
 
@@ -62,6 +62,6 @@ Pasta - [http://pastagdsp33j7aow.onion/](http://pastagdsp33j7aow.onion/) (unknow
 
 Torbox - [http://torbox3uiot6wchz.onion/](http://torbox3uiot6wchz.onion/)  (unknown) [Email Service]
 
-###### I do not take responsibilty for any information that you leak onto the listed webpages, please make sure you do not list off any SURFACE/CLEAR web information into the deepweb, as this could lead to a breach in your personal anonymity and safety
+###### *I do not take responsibilty for any information that you leak onto the listed webpages, please make sure you do not list off any SURFACE/CLEAR web information into the deepweb, as this could lead to a breach in your personal anonymity and safety*
 
-###### Stay safe.
+###### *Stay safe.*
