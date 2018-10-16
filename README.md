@@ -10,7 +10,7 @@ also note: SEARCH ENGINES ARE NOT 100% SAFE DEEP WEB, some links found from sear
 
 YOU HAVE BEEN WARNED (asides from the [DuckDuckGo](http://3g2upl4pq6kufc4m.onion) search engine, it's a surface/clear web search engine with an onion link to ENSURE safety and anonymity)
 
-## Read these [notes](https://concavebark.github.io/dwpnotes) for a little bit of starter instruction!
+## Read these [notes](/notes) for a little bit of starter instruction!
 
 # -------------------------------------
 
