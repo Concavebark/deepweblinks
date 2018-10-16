@@ -11,13 +11,13 @@ about how the normal the deep web can be and that it's not all illegal trade and
 
 ## Read these [notes](/deepweblinks/notes) for a little bit of starter instruction!
 
-# -------------------------------------
+```
 
 the Template goes "Site Name" - "Link" (Approximation of chance to be up) [What it is]
 
 The approximations can really be whatever phrase or word sounds most defining of the site's uptime.
 
-# -------------------------------------
+```
 
 ## -- Search Engines --
 
