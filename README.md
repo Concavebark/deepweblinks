@@ -9,6 +9,8 @@ about how the normal the deep web can be and that it's not all illegal trade and
 
 **YOU HAVE BEEN WARNED** (asides from the [DuckDuckGo](http://3g2upl4pq6kufc4m.onion) search engine, it's a surface/clear web search engine with an onion link to ENSURE safety and anonymity)
 
+**another thing you should be aware of! Hidden wikis ALSO have links that relate to the Dark Web, they're just included for User freedoms towards websites that could have content that isn't Dark Web that I've missed!!!**
+
 ## Read these [notes](/deepweblinks/notes) for a little bit of starter instruction!
 
 ```
